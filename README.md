@@ -1,3 +1,5 @@
+## Fork from fppt/jedis-mock
+
 [![GitHub release](https://img.shields.io/github/release/fppt/jedis-mock.svg)](https://github.com/fppt/jedis-mock/releases/latest)
 [![Maven Central](https://maven-badges.herokuapp.com/maven-central/com.github.fppt/jedis-mock/badge.svg)](https://maven-badges.herokuapp.com/maven-central/com.github.fppt/jedis-mock)
 [![Build Status](https://travis-ci.org/fppt/jedis-mock.svg?branch=master)](https://travis-ci.org/fppt/jedis-mock)
@@ -13,9 +15,9 @@ Add it as a dependency in Maven as:
 
 ```xml
 <dependency>
-  <groupId>com.github.fppt</groupId>
+  <groupId>com.github.a132</groupId>
   <artifactId>jedis-mock</artifactId>
-  <version>0.1.16</version>
+  <version>0.1.16.1</version>
 </dependency>
 ```
 
